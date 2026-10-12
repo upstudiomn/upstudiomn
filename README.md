@@ -73,27 +73,13 @@
 
 ---
 
-### 🌐 Flagship Projects
-
-<div align="center">
-
-| Project | Role & Domain | Status |
-| :--- | :--- | :---: |
-| 🧠 **[MasterSkills](https://github.com/upstudiomn/MasterSkills)** | Modular AI skills & engine hub for autonomous agents | `Active` |
-| 📦 **[design-asset-hub](https://github.com/upstudiomn/design-asset-hub)** | Automated digital design asset pipeline & OS | `Active` |
-| 🚀 **[upstudio.mn](https://upstudio.mn)** | Digital flagship portfolio & creative technology lab | `Live` |
-
-</div>
-
----
-
-### 📬 Connect
+### 📬 Connect & Collaborate
 
 <div align="center">
 
 <p align="center">
   <a href="https://upstudio.mn">
-    <img src="https://img.shields.io/badge/Website-upstudio.mn-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+    <img src="https://img.shields.io/badge/Official_Website-upstudio.mn-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/upstudiomn">
