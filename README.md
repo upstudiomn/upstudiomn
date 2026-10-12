@@ -3,10 +3,7 @@
 <!-- LUXURY GOLD RIBBON CONCEPT COVER -->
 <img src="assets/luxury_gold_ribbon_cover.jpg" width="100%" alt="UP STUDIO - Luxury Conceptual Art Cover" />
 
-<br><br>
-
-# `UP STUDIO`
-### AI Design Engineering • Creative Technologist
+<br>
 
 <p align="center">
   <a href="https://upstudio.mn"><img src="https://img.shields.io/badge/🎨_Craft-Senior_Designer-7928CA?style=flat-square" alt="Craft" /></a>
@@ -18,7 +15,7 @@
 
 </div>
 
----
+<br>
 
 ### 🍱 Core Stack & Focus
 
