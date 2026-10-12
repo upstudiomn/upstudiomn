@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=UP%20STUDIO&fontSize=62&fontAlignY=38&desc=AI%20Design%20Engineering%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Autonomous%20Pipelines&descFontSize=18&descAlignY=62&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="UP Studio Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,50:111827,100:0b0f19&height=180&section=header&text=UP%20STUDIO&fontSize=56&fontAlignY=42&desc=AI%20Design%20Engineering%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Autonomous%20Pipelines&descFontSize=16&descAlignY=68&fontColor=ffffff&stroke=00f2fe&strokeWidth=2" width="100%" alt="UP Studio Header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=750&height=55&lines=Bridging+Elite+Graphic+Design+Craftsmanship+with+Autonomous+AI;Neural+Rendering+Workflows+%26+Generative+Storytelling+Ecosystems" alt="Typing SVG" />
-</p>
+<br>
+
+### ⚡ Bridging Elite Graphic Design Craftsmanship with Autonomous AI Systems
+*High-coherence neural pipelines, generative media workflows, and studio-grade digital asset architecture.*
+
+<br>
 
 <!-- STATUS PILLS -->
 <p align="center">
@@ -25,9 +28,10 @@
     <td width="50%" valign="top">
       <h3>🎨 Visual & Creative Craftsmanship</h3>
       <ul>
-        <li><b>Brand Identity & Systems:</b> High-impact design tokens, typography scales, vector systems, and complete corporate identity programs (CIP).</li>
-        <li><b>Global Marketplace Assets:</b> Commercial print-ready vectors and digital products for <i>Creative Market</i> & <i>Creative Fabrica</i>.</li>
-        <li><b>Character & World Building:</b> 3D assets, stylized textures, and continuous narrative design (<code>Tsetsen's World</code>, <code>Халиун багш</code>).</li>
+        <li><b>Brand Identity & Design Systems:</b> High-impact design tokens, typography scales, vector systems, and complete corporate identity programs (CIP).</li>
+        <li><b>Global Marketplace Assets:</b> Commercial print-ready vectors and studio digital products for <i>Creative Market</i> & <i>Creative Fabrica</i>.</li>
+        <li><b>3D & Spatial Design:</b> Procedural shaders, stylized 3D environments, and Blender geometry asset systems.</li>
+        <li><b>Generative Storytelling:</b> Character-locked visual consistency, high-coherence multimodal video pipelines, and narrative design.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -35,7 +39,8 @@
       <ul>
         <li><b>Neural Workflows:</b> Node-based ComfyUI architectures, LoRA fine-tuning, Flux orchestration, and multimodal prompt pipelines.</li>
         <li><b>Studio GPU Super-Resolution:</b> Hardware-accelerated Vulkan Real-ESRGAN upscaling (4K UHD / 8K, 300 DPI studio master exports).</li>
-        <li><b>Agent Operating Systems:</b> Autonomous Google Antigravity custom plugins, automated release engines, and tool orchestrations.</li>
+        <li><b>Autonomous Agent OS:</b> Custom Google Antigravity plugins, automated release engines, and zero-touch tool orchestrations.</li>
+        <li><b>Edge & Cloud Integration:</b> Automated batch media processing, CLI tools, and scalable creator infrastructure.</li>
       </ul>
     </td>
   </tr>
