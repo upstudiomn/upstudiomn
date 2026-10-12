@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- AI STUDIO CONCEPT COVER (NO TEXT) -->
-<img src="assets/cover_concept.jpg" width="100%" alt="UP STUDIO - Conceptual Art Cover" />
+<!-- LUXURY GOLD RIBBON CONCEPT COVER -->
+<img src="assets/luxury_gold_ribbon_cover.jpg" width="100%" alt="UP STUDIO - Luxury Conceptual Art Cover" />
 
 <br><br>
 
