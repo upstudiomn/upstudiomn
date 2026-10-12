@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- AI STUDIO HERO BANNER -->
-<img src="header_banner.jpg" width="100%" alt="UP STUDIO" />
+<!-- AI STUDIO CONCEPT COVER (NO TEXT) -->
+<img src="assets/cover_concept.jpg" width="100%" alt="UP STUDIO - Conceptual Art Cover" />
 
 <br><br>
 
