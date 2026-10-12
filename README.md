@@ -17,30 +17,16 @@
 
 <br>
 
-### 🍱 Core Stack & Focus
+<div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Creative & 3D Craft</h4>
-      <p>
-        🎯 <b>Brand Identity</b> — Design Systems & CIP<br>
-        💎 <b>Marketplace Assets</b> — Print & Vector Graphics<br>
-        🧊 <b>3D & Spatial</b> — Blender Environments & Shaders<br>
-        🎬 <b>Generative Media</b> — Multimodal Visual Direction
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Autonomous AI & Engineering</h4>
-      <p>
-        🧠 <b>Neural Pipelines</b> — ComfyUI & Flux Workflows<br>
-        🚀 <b>GPU Super-Res</b> — Real-ESRGAN Vulkan 4K/8K<br>
-        🤖 <b>Agent Systems</b> — Autonomous Release & Tools<br>
-        ⚙️ <b>Edge & Automation</b> — Python, TS & Batch Pipelines
-      </p>
-    </td>
-  </tr>
-</table>
+| 🎨 Creative & 3D Engineering | ⚡ Autonomous AI & Pipelines |
+| :--- | :--- |
+| 🎯 **Brand Systems** & Design Tokens | 🧠 **Neural Workflows** & ComfyUI Nodes |
+| 💎 **Marketplace Assets** & Vector Print | 🚀 **GPU Super-Res** (Real-ESRGAN 4K/8K) |
+| 🧊 **3D Environments** & Shaders | 🤖 **Autonomous Agents** & Tool Systems |
+| 🎬 **Generative Media** & Visual Direction | ⚙️ **Edge Batch Pipelines** & Python/TS |
+
+</div>
 
 ---
 
