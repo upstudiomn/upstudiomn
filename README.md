@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,50:111827,100:0b0f19&height=180&section=header&text=UP%20STUDIO&fontSize=56&fontAlignY=42&desc=AI%20Design%20Engineering%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Autonomous%20Pipelines&descFontSize=16&descAlignY=68&fontColor=ffffff&stroke=00f2fe&strokeWidth=2" width="100%" alt="UP Studio Header" />
+<!-- AI STUDIO HERO BANNER -->
+<img src="header_banner.jpg" width="100%" alt="UP STUDIO - AI Design Engineering & Creative Technologist" />
 
-<br>
+<br><br>
 
-### ⚡ Bridging Elite Graphic Design Craftsmanship with Autonomous AI Systems
+### ⚡ Bridging Elite Graphic Design Craftsmanship with Autonomous AI
 *High-coherence neural pipelines, generative media workflows, and studio-grade digital asset architecture.*
 
 <br>
@@ -70,40 +70,12 @@
 <div align="center">
 
 <p align="center">
-  <b>Creative & 3D Engineering</b><br>
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,blender" alt="Design Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,blender,pytorch,python,opencv,ts,nodejs,git,githubactions,linux,windows" alt="Production Tech Stack" />
 </p>
 
 <p align="center">
-  <b>Generative AI & Neural Pipelines</b><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,python,opencv" alt="AI Core" />
-  <img src="https://img.shields.io/badge/ComfyUI-Node_Workflows-EA284E?style=flat-square&logo=git&logoColor=white" height="40" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Real--ESRGAN-Vulkan_GPU-00F2FE?style=flat-square&logo=nvidia&logoColor=black" height="40" alt="Real-ESRGAN" />
-  <img src="https://img.shields.io/badge/FFmpeg-Audio%2FVideo-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="40" alt="FFmpeg" />
+  <sub><b>Specialized Workflows:</b> ComfyUI Nodes • Real-ESRGAN Vulkan GPU (4K/8K Studio) • FFmpeg Processing • Google Antigravity Agents</sub>
 </p>
-
-<p align="center">
-  <b>Automation & Runtime Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,git,githubactions,linux,windows" alt="Engineering Stack" />
-</p>
-
-</div>
-
----
-
-### 📊 Real-Time GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/upstudiomn">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upstudiomn&theme=tokyo-night&bg_color=0d1117&color=00f2fe&line=7928ca&point=00df72&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity%20Stream" width="100%" alt="Contribution Graph" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=upstudiomn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=7928ca&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=upstudiomn&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=7928CA&currStreakNum=00DF72" height="175" alt="Streak Stats" />
 
 </div>
 
