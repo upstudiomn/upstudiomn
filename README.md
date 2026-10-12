@@ -6,21 +6,11 @@
 <br>
 
 <p align="center">
-  <a href="https://upstudio.mn"><img src="https://img.shields.io/badge/🎨_Craft-Senior_Designer-7928CA?style=flat-square" alt="Craft" /></a>
-  &nbsp;
-  <a href="https://github.com/upstudiomn"><img src="https://img.shields.io/badge/⚡_Focus-AI_Pipelines_2026-0070F3?style=flat-square" alt="Focus" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍_Location-Ulaanbaatar-00DF72?style=flat-square&logoColor=black" alt="Location" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-FF0000?style=flat-square&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Blender_3D-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ComfyUI-Nodes-EA284E?style=flat-square&logo=git&logoColor=white" alt="ComfyUI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-Pipelines-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/🎨_Craft-Senior_Designer-7928CA?style=flat-square" alt="Senior Designer" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/💻_Dev-Creative_Developer-0070F3?style=flat-square" alt="Creative Developer" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/⚡_Focus-AI_Pipelines_2026-EA284E?style=flat-square" alt="Focus" />
 </p>
 
 </div>
